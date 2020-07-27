@@ -1,0 +1,123 @@
+.background {
+  viewport-fill: black;
+}
+
+#myUser {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 20%;
+  fill: white;
+}
+
+#myTime {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 30%;
+  fill: white;
+}
+
+#myLabel {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 28%;
+  y: 30%;
+  fill: #22f196;
+}
+
+#myDate {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 40%;
+  fill: white;
+}
+
+#myDateData {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 28%;
+  y: 40%;
+  fill: #1adbfb;
+}
+
+#Batt {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 50%;
+  fill: white;
+}
+
+#BattBar {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 28%;
+  y: 50%;
+  fill: #22f196;
+}
+
+#Step {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 60%;
+  fill: white;
+}
+
+#StepCount {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 28%;
+  y: 60%;
+  fill: #dd81fb;
+}
+
+#HR {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 70%;
+  fill: white;
+}
+
+#HRval {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 28%;
+  y: 70%;
+  fill: #ff2222;
+}
+
+#endUser {
+  font-size: 22;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 5%;
+  y: 80%;
+  fill: white;
+}

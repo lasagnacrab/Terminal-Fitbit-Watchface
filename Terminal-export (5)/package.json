@@ -1,0 +1,34 @@
+{
+  "fitbit": {
+    "appUUID": "b3a9c797-21d5-46bb-9d9c-054ff498c6fe",
+    "appType": "clockface",
+    "appDisplayName": "Terminal",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate",
+      "run_background",
+      "access_calendar",
+      "access_exercise",
+      "access_internet",
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Terminal"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

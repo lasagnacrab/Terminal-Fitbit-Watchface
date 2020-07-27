@@ -1,0 +1,15 @@
+<svg class="background">
+  <text text-length="1028" />
+  <text id="myUser" />
+  <text id="myLabel" />
+  <text id="myTime" />
+  <text id="myDate" />
+  <text id="myDateData" />
+  <text id="Batt" />
+  <text id="BattBar" />
+  <text id="Step" />
+  <text id="StepCount" />
+  <text id="HR" />
+  <text id="HRval" />
+  <text id="endUser" />
+</svg>
